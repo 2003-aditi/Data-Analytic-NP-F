@@ -1,4 +1,4 @@
-# Data-Analytic-NP-F
+# Data-Analytic-Nayepankh-Foundation
 Created a synthetic fundraising dataset for NayePankh NGO using Python and Pandas, Power BI and Excel. Captured campaign targets, donation amounts, volunteer IDs, and donor channels to analyze performance, success rates, and outreach effectiveness, supporting dashboards and strategic decision‑making.
 
 
